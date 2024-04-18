@@ -3,7 +3,7 @@ import { Price } from "@/types/price";
 export const pricingData: Price[] = [
   {
     id: "price_1P6pgXBFB9hwA9fvtptLphzO",
-    unit_amount: 5 * 1,
+    unit_amount: 5 * 100,
     nickname: "Basic",
     offers: [
       "1 User",
